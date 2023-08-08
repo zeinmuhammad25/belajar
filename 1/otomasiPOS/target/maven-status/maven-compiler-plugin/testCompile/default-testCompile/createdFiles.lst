@@ -1,0 +1,5 @@
+step_definitions\Hooks.class
+step_definitions\RunCukesTest.class
+step_definitions\SettingSteps.class
+step_definitions\TansactionSteps.class
+step_definitions\MasterSteps.class
